@@ -71,7 +71,7 @@ Visit [HPool's GitHub](https://github.com/hpool-dev/chia-plotter/releases) and d
 
 Run ``chia-plotter-gui``. Type in your 24 words and hit ``Sign``. 
 
-![Alt text](/pic/pool5.png)
+![Alt text](/pic/pool5.PNG)
 
 Make sure the ``FingerPrint`` matches that shown in the Chia client. 
 Copy the ``Farmer Public Key`` and ``Pool Public Key`` and send them to mjin@CelesChia.com.
