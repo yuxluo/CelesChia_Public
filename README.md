@@ -2,3 +2,5 @@
 我們的征途是星辰和奇亞
 
 Checkout our  guides: [wallet setup](/set_up/)
+
+Contact: mjin@CelesChia.com
