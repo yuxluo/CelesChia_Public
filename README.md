@@ -40,7 +40,7 @@ Go to [HPool](https://www.hpool.com). In the top right corner, change your langu
 <br>
 <br>
 
-# Setting Up Withdrawl 
+# Setting Up Withdrawal 
 
 After you have your account set up, follow these steps closely: 
 <ol>
@@ -78,7 +78,7 @@ Copy the ``Farmer Public Key`` and ``Pool Public Key`` and send them to mjin@Cel
 
 __⚠PLEASE NOTE__ that this is a throw-away wallet. Don't actually show your mnemonics to anyone. I'm very serious about this.
 
-__⚠PLEASE NOTE__ that plots created using your Farmer Public Key is tied exclusively to your wallet. If you lose access or a maliscious person gains access to your wallet, CelesChia may not be able to re-farm your existing plots using your new wallet. 
+__⚠PLEASE NOTE__ that plots created using your Farmer Public Key is tied exclusively to your wallet. If you lose access or a malicious person gains access to your wallet, CelesChia may not be able to re-farm your existing plots using your new wallet. 
 
 ### __CELESCHIA DOES NOT COVER YOUR LOSS OR PROVIDE REFUND FOR YOUR PLOTS IN THE CASES OF ABOVE SCENARIOS__ 
 
