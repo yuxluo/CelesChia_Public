@@ -21,7 +21,7 @@ As you open the client. You should see a page similar to this. Click the ``CREAT
 
 ![Alt text](/pic/wallet1.png)
 <br>
-You will be privded with a 24-word mnemonics. 
+You will be provided with a 24-word mnemonics. 
 
 ![Alt text](/pic/wallet2.png)
 
