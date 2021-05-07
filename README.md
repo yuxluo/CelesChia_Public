@@ -3,6 +3,8 @@
 
 __⚠ CRYPTO MARKET CAN BE VOLATILE. INVEST AT YOUR OWN RISK ⚠__
 <br>
+__⚠ PLEASE READ EVERY SENTENCE OF THIS TUTORIAL ⚠__
+<br>
 <br>
 
 # Install the Official Chia Client
