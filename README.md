@@ -25,7 +25,7 @@ You will be privded with a 24-word mnemonics.
 
 __⚠DO NOT GIVE THESE 24 WORDS TO ANYONE__ including us. He who controls the mnemonics, controls the wallet. CelesChia cannot do anything if your wallet is compromised. 
 
-__⚠CREATE SECURE BACKUPS OF THE MNEMONICS RIGHT AWAY__. Upload to your Google Drive, save to a flash drive, tattoo them on your butt, etc... CelesChia cannot do anything if you lose access to your wallet. 
+__⚠CREATE SECURE BACKUPS OF THE MNEMONICS RIGHT IMMEDIATELY__. Upload to your Google Drive, save to a flash drive, tattoo them on your butt, etc... CelesChia cannot do anything if you lose access to your wallet. 
 
 Do keep the Chia client running for now. 
 <br>
