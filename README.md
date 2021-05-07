@@ -32,7 +32,7 @@ Do keep the Chia client running for now.
 <br>
 
 # Pooling
-Farming chia with a pool does __NOT__ increase your chance of winning chia coins. In fact, the pool takes a __0.1%__ (rate may change) cut from the coins you farm. However, pooling does provide a more consistent and reliable output and is therefore strongly recommended by CelesChia. If you do not wish to pool with others and want to farm on your own, you can skip the next few section. 
+Farming chia with a pool does __NOT__ increase your chance of winning chia coins. In fact, the pool takes a __0.1%__ (rate may change) cut from the coins you farm. However, pooling does provide a more consistent and reliable output and is therefore strongly recommended by CelesChia. If you do not wish to pool with others and want to farm on your own, you can skip the next few sections. 
 
 Go to [HPool](https://www.hpool.com). In the top right corner, change your language preference and ``Sign Up`` for an account. You will need to verify your email address and phone number. 
 <br>
