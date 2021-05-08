@@ -69,6 +69,6 @@ First to go ``Open Pool`` and open a ``CHIA ECO`` pool.
 
 ![Alt text](/pic/pool6.png)
 
-Ask Bernard for a ``Signature `` and put it in.  
+Ask Bernard for a ``Signature`` and put it in.  
 
 Copy your ``API Key`` and email it to mjin@celeschia.com.
