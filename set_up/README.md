@@ -62,38 +62,13 @@ Paste that into ``Address:`` on HPool. Hit ``Confirm`` and you should be all set
 
 At this point, the Chia coins you farm will be withdrawn to your wallet. If you want Bernard to ~~laundry~~ _process_ them for you, ask for his receiving address instead. 
 
-# Get Your Pool Keys
-Welcome to the final steps, you are almost done! 
-
-Visit [HPool's GitHub](https://github.com/hpool-dev/chia-plotter/releases) and download ``chia-plotter-gui-vX.XX-win64.exe``
-
-![Alt text](/pic/pool4.png)
-
-Run ``chia-plotter-gui``. Type in your 24 words and hit ``Sign``. 
-
-![Alt text](/pic/pool5.PNG)
-
-Make sure the ``FingerPrint`` matches that shown in the Chia client. 
-Copy the ``Farmer Public Key`` and ``Pool Public Key`` and send them to mjin@CelesChia.com.
-
-__⚠PLEASE NOTE__ that this is a throw-away wallet. Don't actually show your mnemonics to anyone. I'm very serious about this.
-
-__⚠PLEASE NOTE__ that plots created using your Farmer Public Key is tied exclusively to your wallet. If you lose access or a malicious person gains access to your wallet, CelesChia may not be able to re-farm your existing plots using your new wallet. 
-
-### __CELESCHIA DOES NOT COVER YOUR LOSS OR PROVIDE REFUND FOR YOUR PLOTS IN THE CASES OF ABOVE SCENARIOS__ 
-
-HPool doesn't see your mnemonics either. This application simply generates the keys from your mnemonics, so the pool can associate your plots with your account. You can disconnect your internet connection for this step to be extra safe. 
-
-You may close your Chia client after this step is done. 
-<br>
-<br>
-
 # Register Your Keys with HPool
+Welcome to the final steps, you are almost done! 
 
 First to go ``Open Pool`` and open a ``CHIA ECO`` pool. 
 
 ![Alt text](/pic/pool6.png)
 
-Go to ``Configuration`` and copy your ``Signature `` from ``chia-plotter-gui`` into ``Bind signature data``. Hit Bind to register your key. 
+Ask Bernard for a ``Signature `` and put it in.  
 
 Copy your ``API Key`` and email it to mjin@celeschia.com.
