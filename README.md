@@ -2,4 +2,6 @@
 
 Checkout our  guides: [wallet setup](/set_up/)
 
+Providing plotting and hosting services. 
+
 Contact: mjin@CelesChia.com
